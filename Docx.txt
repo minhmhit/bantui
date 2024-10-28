@@ -1,0 +1,99 @@
+1. Trang chủ (Home Page)
+Thanh điều hướng (Navigation Bar)
+
+Nội dung: Logo ở bên trái, các mục "Trang Chủ," "Sản Phẩm," "Bộ Sưu Tập," "Giảm Giá," "Blog," và "Liên Hệ." Thanh tìm kiếm ở giữa và biểu tượng giỏ hàng cùng tài khoản cá nhân ở bên phải.
+Mã màu:
+Nền: #FFFFFF (trắng).
+Văn bản: #333333 (xám đậm).
+Nút và biểu tượng: #E91E63 (hồng đậm) cho điểm nhấn.
+Banner chính
+
+Nội dung: Hình ảnh túi xách nổi bật, cùng với văn bản "Bộ Sưu Tập Mới Nhất" và nút CTA như "Mua Ngay."
+Mã màu:
+Văn bản: #FFFFFF (trắng).
+Nút CTA:
+Nền: #E91E63 (hồng đậm).
+Văn bản: #FFFFFF (trắng).
+Hình ảnh có thể dùng màu sắc trung tính như beige, nâu nhạt để làm nổi bật sản phẩm.
+Phần nổi bật (Feature Section)
+
+Nội dung: Các danh mục túi xách như "Túi Xách Tay," "Túi Đeo Chéo," "Ba Lô." Mỗi danh mục có hình ảnh đại diện và mô tả ngắn.
+Mã màu:
+Nền của từng ô: #F8F8F8 (xám nhạt).
+Văn bản: #333333 (xám đậm).
+Điểm nhấn (ví dụ: đường viền hoặc hiệu ứng hover): #E91E63 (hồng đậm).
+Phần ưu đãi (Promotion Section)
+
+Nội dung: "Giảm Giá 30% cho Bộ Sưu Tập Mùa Thu." Hình ảnh và văn bản nhấn mạnh ưu đãi.
+Mã màu:
+Văn bản: #FF5722 (cam sáng) cho sự nổi bật.
+Nền: #FFE0B2 (cam nhạt).
+Phần cuối trang (Footer)
+
+Nội dung: Thông tin liên hệ, chính sách đổi trả, bảo hành, các liên kết đến mạng xã hội và form đăng ký nhận bản tin.
+Mã màu:
+Nền: #333333 (xám đậm).
+Văn bản: #FFFFFF (trắng).
+Các liên kết khi hover: #E91E63 (hồng đậm).
+2. Trang danh sách sản phẩm (Product Listing Page)
+Bộ lọc sản phẩm
+
+Nội dung: Các lựa chọn lọc theo giá, màu sắc, chất liệu, loại túi, thương hiệu.
+Mã màu:
+Nút lọc: Nền #E0E0E0 (xám), văn bản #333333.
+Nút lọc được chọn: Nền #E91E63 (hồng đậm), văn bản #FFFFFF (trắng).
+Lưới sản phẩm
+
+Nội dung: Hiển thị hình ảnh túi, tên sản phẩm, giá và nút "Thêm vào giỏ."
+Mã màu:
+Nền ô sản phẩm: #FFFFFF (trắng).
+Tên sản phẩm: #333333 (xám đậm).
+Giá: #E91E63 (hồng đậm).
+Nút "Thêm vào giỏ":
+Nền: #E91E63 (hồng đậm).
+Văn bản: #FFFFFF (trắng).
+3. Trang chi tiết sản phẩm (Product Detail Page)
+Hình ảnh sản phẩm
+
+Nội dung: Hiển thị hình ảnh lớn của sản phẩm cùng các góc chụp khác nhau.
+Mã màu: Hình ảnh sản phẩm có thể nổi bật trên nền #F8F8F8 (xám nhạt) để tạo sự tương phản.
+Thông tin sản phẩm
+
+Nội dung: Tên, giá, mô tả chi tiết, và tùy chọn mua hàng.
+Mã màu:
+Tên sản phẩm: #333333 (xám đậm).
+Giá: #E91E63 (hồng đậm).
+Nút CTA (Thêm vào giỏ, Mua ngay):
+Nền: #FF5722 (cam sáng) hoặc #E91E63 (hồng đậm).
+Văn bản: #FFFFFF (trắng).
+4. Trang giỏ hàng (Cart Page)
+Danh sách sản phẩm đã chọn
+Nội dung: Hiển thị hình ảnh nhỏ, tên, giá và số lượng.
+Mã màu:
+Nền: #F8F8F8 (xám nhạt).
+Văn bản: #333333 (xám đậm).
+Nút "Xóa" hoặc "Cập nhật":
+Nền: #FF5722 (cam sáng).
+Văn bản: #FFFFFF (trắng).
+5. Trang thanh toán (Checkout Page)
+Thông tin giao hàng và thanh toán
+Nội dung: Điền thông tin giao hàng, chọn phương thức thanh toán.
+Mã màu:
+Các ô nhập liệu: Nền #FFFFFF, viền #CCCCCC (xám nhạt).
+Nút "Xác nhận thanh toán":
+Nền: #4CAF50 (xanh lá cây).
+Văn bản: #FFFFFF (trắng).
+6. Trang tài khoản cá nhân (User Account Page)
+Nội dung: Hiển thị thông tin cá nhân, lịch sử mua hàng và danh sách yêu thích.
+Mã màu:
+Văn bản: #333333 (xám đậm).
+Nút và liên kết: #E91E63 (hồng đậm).
+Tóm tắt mã màu chủ đạo
+Màu chính (Primary Color): #E91E63 (hồng đậm) – dùng cho nút nhấn, liên kết quan trọng.
+Màu phụ (Secondary Color): #FF5722 (cam sáng) – dùng cho thông báo ưu đãi, nút phụ.
+Màu nền:
+#FFFFFF (trắng) cho nền chính.
+#F8F8F8 (xám nhạt) cho các phần nền phụ.
+Màu văn bản:
+#333333 (xám đậm) cho nội dung chính.
+#666666 (xám nhạt) cho văn bản phụ trợ.
